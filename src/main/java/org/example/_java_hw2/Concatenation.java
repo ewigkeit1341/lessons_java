@@ -10,10 +10,10 @@ package org.example._java_hw2;
 import org.example._2024_05_23.Student;
 
 public class Concatenation {
-    private int num;
-    private String people;
-    private String in;
-    private String home;
+    public int num;
+    public String people;
+    public String in;
+    public String home;
 
     public Concatenation(int num, String home, String in, String people){
             this.num = num;

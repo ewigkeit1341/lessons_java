@@ -9,3 +9,4 @@ public class Main {
         System.out.println(say.getNum() + " " + say.getPeople() + " " + say.getIn() + " " + say.getHome());
     }
 }
+//подскажите, почему у меня перепутаны значения people и home? я вроде все делала по аналогии....
