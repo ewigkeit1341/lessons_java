@@ -18,7 +18,7 @@ public class Main {
         System.out.println("С учётом восклицательного знака - " + myStr.charAt(16));
         System.out.println(myStr.contains("Java"));
         System.out.println("Вырезать c помощью метода String.substring()??? - " + myStr.substring(14, 18));
-        //Заменить все символы “а” на “о”. - НЕ ЗНАЮ
+        System.out.println(myStr.replace('a', 'o'));
         System.out.println("верхний регистр " + myStr.toLowerCase());
         System.out.println("нижний регистр " + myStr.toUpperCase());
     }
