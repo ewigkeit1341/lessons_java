@@ -26,7 +26,7 @@ public class KapezKakajaFignya {
 
         int hoursBleibt = n / 3600;
         if (hoursBleibt > 1) {
-            System.out.println("И да..... Тебе осталось " + hoursBleibt + " томительно долгих часов. Не спасть!");
+            System.out.println("И да..... Тебе осталось " + hoursBleibt + " томительно долгих часов. Не спать!");
         } else if (hoursBleibt == 1) {
             System.out.println("Потерпи уже.... Остался 1 час... Убери с лица радость, ты демотивируешь окружающих!");
         } else {
